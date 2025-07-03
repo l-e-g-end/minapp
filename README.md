@@ -51,35 +51,43 @@ Mini-Project
 
 ### 🔧 Requirements
 
+
 - Python 3.11+
 - PostgreSQL (locally or via Docker)
 
 ### ⬇️ Install & Run Locally
 
 # Create virtual environment
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Run app
+```
 python main.py
+```
 
 ---------------------------------------------------------
 
 # 🔑 Register a User
 Use /register route via Swagger UI or cURL:
-
+```bash
 curl -X POST http://localhost:8080/register \
 -H "Content-Type: application/json" \
 -d '{"name": "john", "email": "john@doe.com", "password": "strongpassword"}'
+```
 
 ---------------------------------------------------------
 
 ### Optional, run via Docker
 
 #### Build and start
+```bash
 docker-compose up --build
-
+```
 
