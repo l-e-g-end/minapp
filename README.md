@@ -30,6 +30,7 @@ Perfect for those learning secure web development.
 
 ### 📂 Project Structure
 
+```bash
 Mini-Project
 ├── main.py # Main FastAPI app
 ├── auth.py # Auth logic (JWT, hashing)
@@ -42,6 +43,7 @@ Mini-Project
 ├── Dockerfile # Docker image
 ├── docker-compose.yml # Full-stack with PostgreSQL
 └── README.md # You're reading it!
+```
 
 ---------------------------------------------------------
 
