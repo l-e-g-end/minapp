@@ -66,7 +66,7 @@ minapp/
 ├── schemas.py          # Pydantic request/response schemas
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
-└── app.log             # Application logs
+└── logs                # Application logs
 ```
 
 ---
