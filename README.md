@@ -13,17 +13,17 @@ A lightweight, secure, and Docker-ready **FastAPI** application demonstrating:
 
 ## 📋 Table of Contents
 
-1. [Features](#features)
-2. [Tech Stack](#tech-stack)
-3. [Project Structure](#project-structure)
-4. [Getting Started (Local)](#getting-started-local)
-5. [Docker Deployment](#docker-deployment)
-6. [Authentication Flow](#authentication-flow)
-7. [API Endpoints](#api-endpoints)
-8. [Security & Best Practices](#security--best-practices)
-9. [Limitations & Future Work](#limitations--future-work)
-10. [Contributing](#contributing)
-11. [License](#license)
+1. [Features](#-features)
+2. [Tech Stack](#-tech-stack)
+3. [Project Structure](#-project-structure)
+4. [Getting Started (Local)](#-getting-started-local)
+5. [Docker Deployment](#-docker-deployment)
+6. [Authentication Flow](#-authentication-flow)
+7. [API Endpoints](#-api-endpoints)
+8. [Security & Best Practices](#-security--best-practices)
+9. [Limitations & Future Work](#-limitations--future-work)
+10. [Contributing](#-contributing)
+11. [License](#-license)
 
 ---
 
